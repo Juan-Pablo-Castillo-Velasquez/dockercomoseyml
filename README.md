@@ -1,4 +1,4 @@
-the best practice for projects
+```yaml
 version: '3.9'
 
 services:
